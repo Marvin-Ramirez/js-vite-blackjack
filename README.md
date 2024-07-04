@@ -21,5 +21,5 @@ La carpeta dist junta todo el código para poder desplegarlo
 4. Ejecutamos el git commit -m "" (En la comillas ponemos el nombre del repositorio)
 5. Ejecutamos el "git remote add origin ..... " y los demás
 6. Para restablecer los cambios ejecutamos "git checkout -- ."
-7. Para guardar nuevos cambios nos dirigimos a "Source Control" y le damos a Commit
+7. Para guardar nuevos cambios nos dirigimos a "Source Control" y le damos a Commit   
 8. Github pages sirve para deplegar nuestro código (al igual que netlify)
