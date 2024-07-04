@@ -73,3 +73,4 @@ btnNuevo.addEventListener('click', () => {
     btnDetener.disabled = false;
 
 });
+// git checkout -- .
